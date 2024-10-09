@@ -1,0 +1,16 @@
+Projet,Statut,Début,Fin prévue,Fin réelle,Budget prévu,Budget réel,Satisfaction client,Risque (%),Délai (jours),Temps passé (jours),Personnes/jours (Effort),Responsable,Département,FTE
+eBanking V1,En cours,2023-01-15,2024-01-15,,1000000,850000.0,85.0,20,365,633,807,Jean Dupont,eBanking,3.668181818181818
+Mobile App V2,Terminé,2022-05-10,2023-05-10,2023-05-12,800000,900000.0,90.0,30,370,367,1227,Marie Martin,Mobile Banking,5.577272727272727
+eBanking V2,En attente,2024-02-01,2025-02-01,,1200000,,,15,365,251,1247,Sophie Leclerc,Conformité,5.668181818181818
+MIS Upgrade,En cours,2023-03-20,2024-03-20,,500000,350000.0,75.0,25,365,569,1274,Paul Durand,Front Office,5.790909090909091
+Conformité 3,Terminé,2021-11-01,2022-11-01,2022-10-25,450000,400000.0,80.0,10,350,358,1482,Alice Bernard,MIS,6.736363636363636
+Risque Banque,En cours,2023-06-01,2024-06-01,,900000,750000.0,70.0,35,365,496,873,Thomas Girard,Support Client,3.9681818181818183
+Front Office V1,En cours,2023-02-10,2024-02-10,,600000,400000.0,80.0,40,365,607,742,Laura Petit,Ressources Humaines,3.3727272727272726
+Helpdesk eBanking,En attente,2024-05-01,2025-05-01,,1300000,,,18,365,161,799,Antoine Robert,Opérations,3.631818181818182
+Mobile App V3,Terminé,2022-08-05,2023-08-05,2023-08-03,750000,800000.0,88.0,28,365,363,1017,Claire Faure,Risques,4.622727272727273
+Backend Optimisation,Terminé,2022-03-15,2023-03-15,2023-03-10,550000,500000.0,85.0,22,365,360,868,Julien Moreau,Communication,3.9454545454545453
+Compliance Upgrade,En cours,2023-09-25,2024-09-25,,1100000,,,30,365,380,1499,Isabelle Lefèvre,Front Office,6.8136363636363635
+Ressources Humaines,En attente,2024-01-10,2025-01-10,,1500000,,,25,365,273,1011,Vincent Lambert,Conformité,4.595454545454546
+Front Office V2,Terminé,2022-11-20,2023-11-20,2023-11-15,620000,600000.0,82.0,15,365,360,653,Julie Perrin,Ressources Humaines,2.9681818181818183
+Conformité 4,En attente,2024-06-01,2025-06-01,,1400000,,,20,365,130,1221,Nicolas Rolland,eBanking,5.55
+Mobile App V4,En cours,2023-07-15,2024-07-15,,980000,950000.0,78.0,18,365,452,695,Emilie Garnier,Mobile Banking,3.159090909090909
