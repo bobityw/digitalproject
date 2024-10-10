@@ -1,4 +1,4 @@
-# H1 Dashboard de Suivi des Projets Digitaux
+# Dashboard de Suivi des Projets Digitaux
 Ce mini-projet a pour objectif de réaliser un tableau de bord sur différents projets digitaux fictifs. 
 Le data set a été généré par ChatGPT. Il inclut: 
 - Le nom du projet
@@ -15,16 +15,19 @@ Le data set a été généré par ChatGPT. Il inclut:
 - Le département
 - FTE: calculé à partir de l'effort.
 
-**Page 1 : Vue Générale des Projets**
+## Page 1 : Vue Générale des Projets
+
 Cette page fournit un aperçu global des projets en cours, terminés, et en attente. Elle inclut :
 
 - Une jauge du budget actuel par rapport aux prévisions.
 - Le nombre total de projets, répartis par statut (terminés, en cours, non démarrés).
 - Un radar pour visualiser les FTE (équivalents temps plein) par projet.
 - Un tableau récapitulatif affichant les principaux indicateurs des projets.
+  
 ![Page 1](https://github.com/user-attachments/assets/63096bb3-f6fd-428b-8e42-f63617e1acc6)
 
-**Page 2 : Suivi des KPI et Déviations**
+## Page 2 : Suivi des KPI et Déviations
+
 La deuxième page permet d'analyser en profondeur les indicateurs de performance :
 - Un graphique en courbes pour comparer le budget courant au budget prévisionnel.
 - Un tableau montrant la répartition des projets et FTE par département.
